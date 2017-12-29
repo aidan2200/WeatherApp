@@ -1,0 +1,20 @@
+body {
+    background: #fafafa;
+}
+
+#header{
+    background-color: #D68F8F;
+    text-align: right;
+    padding: 170px 30px 50px 0;
+}
+
+#header h1 {
+    color: #FFFFFF;
+    margin: 0;
+}
+
+#header h3 {
+    color: #EDEDED;
+    font-size: 2.2rem;
+    margin: 0;
+}
